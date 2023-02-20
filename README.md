@@ -5,3 +5,4 @@ This is a project aimed to desensitize voice data to keep our privacy safe. The 
 ## Files Introduction:
 - V2T2V.ipynb: demo to transform voice data to text data and use computer audio to read the text data.
 - NLPEntityDetection: a demo to detect the keywords in the text data.
+- labelText.ipynb: a script to generate labeled speech voice data
